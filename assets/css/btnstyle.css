@@ -1,0 +1,31 @@
+.backmain{
+    float:right;
+  }
+  
+  .button,.button1{
+    width: 100%;
+      border-radius : 15px;
+      padding: 7px;
+      border: none;
+      background: #1c87c9; 
+      font-size: 16px;
+      font-weight: 400;
+      color: #fff;
+  }
+  
+  .button:hover{
+    background: #1c87a5; 
+  }
+  
+  .button:active{
+    background: #1c87a5; 
+  }
+  
+  
+  .button1:hover{
+    background: tomato; 
+  }
+  
+  .button1:active{
+    background: tomato; 
+  }
